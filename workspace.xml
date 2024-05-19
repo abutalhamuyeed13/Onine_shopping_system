@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ec674120-0270-4eef-8655-10594d523157" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="composer.json" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="2gaArzzFD89NTqjvR405t07V37Z" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp73\htdocs\online_shopping_system" />
+      <recent name="C:\xampp73\htdocs\online_shopping_system\app\classes" />
+      <recent name="C:\xampp73\htdocs\online_shopping_system\app\classes\controller" />
+      <recent name="C:\xampp73\htdocs\online_shopping_system\view" />
+      <recent name="C:\xampp73\htdocs\online_shopping_system\app" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ec674120-0270-4eef-8655-10594d523157" name="Default Changelist" comment="" />
+      <created>1715925517959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1715925517959</updated>
+      <workItem from="1715925519274" duration="13113000" />
+      <workItem from="1715943071633" duration="273000" />
+      <workItem from="1716011127186" duration="11833000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2599" y="312" key="NewPhpClassDialog" timestamp="1715936852846">
+      <screen x="1920" y="94" width="1920" height="1040" />
+    </state>
+    <state x="2599" y="312" key="NewPhpClassDialog/0.0.1280.680/1920.94.1920.1040@1920.94.1920.1040" timestamp="1715936852846" />
+    <state x="513" y="286" key="NewPhpFileDialog" timestamp="1716019829727">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="2689" y="531" key="NewPhpFileDialog/0.0.1280.680/1920.94.1920.1040@1920.94.1920.1040" timestamp="1715941170755" />
+    <state x="513" y="286" key="NewPhpFileDialog/0.0.1280.680@0.0.1280.680" timestamp="1716019829727" />
+    <state x="284" y="34" width="712" height="612" key="find.popup" timestamp="1716013345982">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="284" y="34" width="712" height="612" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1716013345982" />
+  </component>
+</project>
